@@ -1,0 +1,11 @@
+        <CardFooter className="mt-12 p-0">
+          <Button
+            size="lg"
+            color="white"
+            className="hover:scale-[1.02] focus:scale-[1.02] active:scale-100"
+            ripple={false}
+            fullWidth={true}
+          >
+            Update user
+          </Button>
+        </CardFooter>
